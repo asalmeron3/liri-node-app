@@ -5,4 +5,5 @@
  movie-this : Mr.Nobody, 
  movie-this : a series of unfortunate events, 
  movie-this : cloud atlas, 
+ my-tweets : User's last 20 tweets, 
  my-tweets : User's last 20 tweets,

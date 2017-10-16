@@ -208,7 +208,7 @@
 	    		var movie_data = JSON.parse(body);
 	    		console.log("-----------------------");
 	    		console.log("Title of the movie: " + movie_data.Title);
-				console.log("The year movie was released: " + movie_data.Released);
+				console.log("The year this movie was released: " + movie_data.Released);
 				console.log("IMDB Rating: " + movie_data.imdbRating);
 				console.log("Rotten Tomatoes Rating: " + movie_data.Ratings[1].Value);
 				console.log("Filmed in: " + movie_data.Country);
